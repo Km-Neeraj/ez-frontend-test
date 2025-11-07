@@ -1,0 +1,11 @@
+{
+  "method": "POST",
+  "url": "https://vernanbackend.ezlab.in/api/contact-us/",
+  "body": {
+    "name": "Neeraj Yadav",
+    "email": "neerajdv1113@gmail.com",
+    "phone": "6390981900",
+    "message": "Hello from Postman"
+  },
+  "note": "API returned 404 Not Found during test, frontend and Postman setup verified successfully."
+}
